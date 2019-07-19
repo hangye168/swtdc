@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="swtdc"
+  id="myeclipse.1399521137540"
+  context-root="/swtdc"
+  j2ee-spec="5.0"
+  archive="swtdc.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
